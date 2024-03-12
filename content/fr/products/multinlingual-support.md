@@ -2,7 +2,7 @@
 title: Multilingual support
 theme:
   - c5
-image: /media/wave.jpg
+image: /media/34798223-e3e1-47a5-8cd6-f3b96f526855.png
 summary: |
   Commodo irure nostrud nostrud et eu.
 ---
