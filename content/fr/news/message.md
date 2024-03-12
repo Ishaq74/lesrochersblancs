@@ -1,7 +1,7 @@
 ---
 title: Message de service!
 date: 2022-05-19T03:56:10.184Z
-image: /media/wave.jpg
+image: /media/34798223-e3e1-47a5-8cd6-f3b96f526855.png
 summary: Attention peinture fraiche
 ---
 
